@@ -16,15 +16,12 @@ Open BreweryDB is an open source library for Brerweries. It is created and maint
 ## Motivation & Goals
 * Demonstrate mastery of: HTML, CSS and Vanilla JavaScript  
 * Provide the details of the Brewery around the city  
----
 
 ## Technologies
-JavaScript,RESTful APIs, Local Storage, HTML, CSS  
----
+JavaScript, RESTful APIs, Local Storage, HTML, CSS  
 
 ## Deployment
 [Deployment Link]()
----
 
 ## Features
 * [Search Breweries](#Search-Breweries)
